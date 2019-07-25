@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
-  <artifactId>Example4</artifactId>
+  <artifactId>Example1</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>Example4</name>
-  <description>Example 04</description>
+  <name>Example1</name>
+  <description>Example 001</description>
   <dependencies>
     <dependency>
       <groupId>com.thoughtworks.xstream</groupId>
