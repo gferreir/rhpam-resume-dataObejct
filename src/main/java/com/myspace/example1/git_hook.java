@@ -12,8 +12,6 @@ public class git_hook implements java.io.Serializable {
 
 	private java.lang.Integer def;
 
-	private java.lang.Integer ghi;
-
 	public git_hook() {
 	}
 
@@ -33,19 +31,9 @@ public class git_hook implements java.io.Serializable {
 		this.def = def;
 	}
 
-	public java.lang.Integer getGhi() {
-		return this.ghi;
-	}
-
-	public void setGhi(java.lang.Integer ghi) {
-		this.ghi = ghi;
-	}
-
-	public git_hook(java.lang.String abc, java.lang.Integer def,
-			java.lang.Integer ghi) {
+	public git_hook(java.lang.String abc, java.lang.Integer def) {
 		this.abc = abc;
 		this.def = def;
-		this.ghi = ghi;
 	}
 
 }
