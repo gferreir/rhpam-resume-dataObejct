@@ -6,12 +6,23 @@ package com.myspace.example1;
 
 public class git_hook implements java.io.Serializable {
 
-    static final long serialVersionUID = 1L;
+	static final long serialVersionUID = 1L;
 
-    public git_hook() {
-    }
+	private java.lang.String abc;
 
+	public git_hook() {
+	}
 
+	public java.lang.String getAbc() {
+		return this.abc;
+	}
 
+	public void setAbc(java.lang.String abc) {
+		this.abc = abc;
+	}
+
+	public git_hook(java.lang.String abc) {
+		this.abc = abc;
+	}
 
 }
