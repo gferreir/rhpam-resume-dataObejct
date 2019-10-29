@@ -7,7 +7,8 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>Example1</name>
-  <description>Example 001</description>
+  <description>Example 001
+a new readme</description>
   <dependencies>
     <dependency>
       <groupId>com.thoughtworks.xstream</groupId>
