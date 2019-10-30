@@ -8,7 +8,7 @@
   <packaging>kjar</packaging>
   <name>Example1</name>
   <description>Example 001
-a new readme</description>
+a new (new) readme</description>
   <dependencies>
     <dependency>
       <groupId>com.thoughtworks.xstream</groupId>
